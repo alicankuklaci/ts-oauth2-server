@@ -1,0 +1,27 @@
+{
+  "name": "@jmondi/oauth2-server-prisma-example",
+  "license": "MIT",
+  "scripts": {
+    "gen": "prisma generate",
+    "dev": "ts-node-dev ./src/main.ts"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.21",
+    "prisma": "^3.10.0",
+    "ts-node": "^10.7.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@jmondi/oauth2-server": "workspace:^2.0.3-rc.0",
+    "@prisma/client": "^3.10.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
