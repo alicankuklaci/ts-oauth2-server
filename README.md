@@ -1,6 +1,9 @@
 # TypeScript OAuth2.0 Server
 
-Forked from https://github.com/jasonraimondi/ts-oauth2-server
+Forked from https://github.com/jasonraimondi/ts-oauth2-server 
+
+Configured for XAPP ERP
+
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jasonraimondi/ts-oauth2-server/build%20and%20test?label=tests&style=flat-square)](https://github.com/jasonraimondi/ts-oauth2-server)
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/jasonraimondi/typescript-oauth2-server?style=flat-square)](https://codeclimate.com/github/jasonraimondi/typescript-oauth2-server/test_coverage)
